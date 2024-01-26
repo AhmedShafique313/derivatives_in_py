@@ -14,4 +14,9 @@ derivative = cons*diff
 print("Derivative of f(a) = ", derivative)
 
 # lets plot f(a) = 3a
+length = 6
+width = 3
+slope = length / width
+print ("Slope of line : ", slope)
+
 
